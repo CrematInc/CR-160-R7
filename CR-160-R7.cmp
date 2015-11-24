@@ -1,0 +1,539 @@
+Cmp-Mod V01 Genere par PcbNew le 11/22/2015 12:34:03 PM
+
+BeginCmp
+TimeStamp = 564F058B
+Path = /564C69E4
+Reference = U4;
+ValeurCmp = CR-200;
+IdModule  = Cremat_footprints:8pin_SIP_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F2213
+Path = /564CA5FF
+Reference = R7;
+ValeurCmp = 200k;
+IdModule  = Cremat_footprints:Trimpot_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F05BA
+Path = /564CC2DB
+Reference = U7;
+ValeurCmp = MAX4649;
+IdModule  = Cremat_footprints:SOT-23-8;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F05AE
+Path = /564D29CC
+Reference = U6;
+ValeurCmp = HA9P5002;
+IdModule  = Cremat_footprints:SO8;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0597
+Path = /564C6B3F
+Reference = U5;
+ValeurCmp = CR-210;
+IdModule  = Cremat_footprints:8pin_SIP_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F057F
+Path = /564C2B27
+Reference = U3;
+ValeurCmp = EL5163;
+IdModule  = Cremat_footprints:SC-70-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0572
+Path = /564B6E81
+Reference = U2;
+ValeurCmp = EL5163;
+IdModule  = Cremat_footprints:SC-70-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0565
+Path = /564C1076
+Reference = U1;
+ValeurCmp = EL5163;
+IdModule  = Cremat_footprints:SC-70-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0558
+Path = /564CF56A
+Reference = TH2;
+ValeurCmp = NTPA7220;
+IdModule  = Cremat_footprints:200mil;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F054E
+Path = /564CE8BC
+Reference = TH1;
+ValeurCmp = NTPA7220;
+IdModule  = Cremat_footprints:200mil;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0544
+Path = /564B7891
+Reference = SW1;
+ValeurCmp = gain/polarity;
+IdModule  = Cremat_footprints:3Dip;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0534
+Path = /564CEAF4
+Reference = R25;
+ValeurCmp = 100k;
+IdModule  = Cremat_footprints:trimpot;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F051A
+Path = /553792EE
+Reference = R24;
+ValeurCmp = 1.0k;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0514
+Path = /5548A3D9
+Reference = R23;
+ValeurCmp = 1.0k;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F050E
+Path = /564CEE76
+Reference = R22;
+ValeurCmp = 4.7;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0508
+Path = /564CED5C
+Reference = R21;
+ValeurCmp = 4.7;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0502
+Path = /564CEC86
+Reference = R20;
+ValeurCmp = 1.0k;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F04FC
+Path = /564CEF68
+Reference = R19;
+ValeurCmp = 47;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F04F6
+Path = /564CF016
+Reference = R18;
+ValeurCmp = 47;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F04F0
+Path = /564C31D4
+Reference = R17;
+ValeurCmp = 390;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F04EA
+Path = /564C2B51
+Reference = R16;
+ValeurCmp = 4.7;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F04E4
+Path = /564C2B1B
+Reference = R15;
+ValeurCmp = 4.7;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F04DE
+Path = /564C2B3F
+Reference = R14;
+ValeurCmp = 390;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F04D8
+Path = /564BB011
+Reference = R13;
+ValeurCmp = 4.7;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F04D2
+Path = /555A4BD9
+Reference = R12;
+ValeurCmp = 4.7;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F04CC
+Path = /564C10A6
+Reference = R11;
+ValeurCmp = 4.7;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F04C6
+Path = /564C1064
+Reference = R10;
+ValeurCmp = 4.7;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F04C0
+Path = /564B6C6C
+Reference = R9;
+ValeurCmp = 100k;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0486
+Path = /564BA2E8
+Reference = R6;
+ValeurCmp = 43;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0480
+Path = /564BA0D0
+Reference = R5;
+ValeurCmp = 390;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F047A
+Path = /564C109A
+Reference = R4;
+ValeurCmp = 43;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0474
+Path = /564C1094
+Reference = R3;
+ValeurCmp = 390;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F046E
+Path = /564B9672
+Reference = R2;
+ValeurCmp = 1.0k;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0468
+Path = /564C2121
+Reference = R1;
+ValeurCmp = 1.0k;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0462
+Path = /5537943F
+Reference = Q2;
+ValeurCmp = MMBT3906;
+IdModule  = Cremat_footprints:SOT23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F045B
+Path = /5548A3D3
+Reference = Q1;
+ValeurCmp = MMBT3904;
+IdModule  = Cremat_footprints:SOT23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0454
+Path = /555C9625
+Reference = L2;
+ValeurCmp = 10uH;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F044E
+Path = /564C1070
+Reference = L1;
+ValeurCmp = 10uH;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0448
+Path = /564DBC50
+Reference = jump;
+ValeurCmp = Jump;
+IdModule  = Cremat_footprints:320;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F043E
+Path = /564D0EE7
+Reference = J5;
+ValeurCmp = -12V;
+IdModule  = Cremat_footprints:banana;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0431
+Path = /564D0FC5
+Reference = J4;
+ValeurCmp = GND;
+IdModule  = Cremat_footprints:banana;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0424
+Path = /564D04E2
+Reference = J3;
+ValeurCmp = +12V;
+IdModule  = Cremat_footprints:banana;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0417
+Path = /564CF44C
+Reference = J2;
+ValeurCmp = output;
+IdModule  = Cremat_footprints:BNC;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F040B
+Path = /564B43C2
+Reference = J1;
+ValeurCmp = input;
+IdModule  = Cremat_footprints:BNC;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F03F1
+Path = /553792F4
+Reference = D2;
+ValeurCmp = 5.6V;
+IdModule  = Cremat_footprints:SOD-323;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F03E3
+Path = /5548A3DF
+Reference = D1;
+ValeurCmp = 5.6V;
+IdModule  = Cremat_footprints:SOD-323;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F03D5
+Path = /564CF564
+Reference = C16;
+ValeurCmp = 1000uF;
+IdModule  = Cremat_footprints:electrolytic_1000uF_16V;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F03C7
+Path = /564CE4A4
+Reference = C15;
+ValeurCmp = 1000uF;
+IdModule  = Cremat_footprints:electrolytic_1000uF_16V;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F03B9
+Path = /55382B64
+Reference = C14;
+ValeurCmp = 10uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F03B3
+Path = /5548A442
+Reference = C13;
+ValeurCmp = 10uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F03AD
+Path = /564CF29E
+Reference = C12;
+ValeurCmp = 0.1uF;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F03A7
+Path = /564CF218
+Reference = C11;
+ValeurCmp = 0.1uF;
+IdModule  = Cremat_footprints:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F03A1
+Path = /564CF37A
+Reference = C10;
+ValeurCmp = 10uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F039B
+Path = /564CF0D4
+Reference = C9;
+ValeurCmp = 10uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0395
+Path = /564C2B2D
+Reference = C8;
+ValeurCmp = 10uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F038F
+Path = /564C2B15
+Reference = C7;
+ValeurCmp = 10uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0389
+Path = /564C108E
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0383
+Path = /564B8867
+Reference = C5;
+ValeurCmp = 10uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F037D
+Path = /555A47E8
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0377
+Path = /564C107C
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F0371
+Path = /564C105E
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F036B
+Path = /564B9CE8
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = Cremat_footprints:1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 564F4649
+Path = /564B4CDA
+Reference = R8;
+ValeurCmp = 1k;
+IdModule  = Cremat_footprints:trimpot_Vishay_T93XB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651E809
+Path = 
+Reference = REF**;
+ValeurCmp = mounting_hole;
+IdModule  = Cremat_footprints:mounting_hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651E812
+Path = 
+Reference = REF**;
+ValeurCmp = mounting_hole;
+IdModule  = Cremat_footprints:mounting_hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651E81B
+Path = 
+Reference = REF**;
+ValeurCmp = mounting_hole;
+IdModule  = Cremat_footprints:mounting_hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651E824
+Path = 
+Reference = REF**;
+ValeurCmp = mounting_hole;
+IdModule  = Cremat_footprints:mounting_hole;
+EndCmp
+
+EndListe
